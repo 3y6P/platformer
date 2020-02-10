@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - platform
+  - deadObject
+  - heathObject
+  - coinsObject
+  - simpleEnemy
+  - scope
+  - crosshair
+  - fireStart
+  - fireObject
+  - nitroAnimation
+  - nitroAnimationMini
+  - close0
+  - close1
+  - magnitnoePole
+  - buubble
+  - buubbleAnimation
+  - close2
+  - cookieAnimation
+  - circleFire
+  - cookieObj
+  - finish
+  - finAn
+  - lava
+  - heathLine
+  - heathText
+  - menu
+  - canvas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
